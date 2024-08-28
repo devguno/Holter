@@ -8,7 +8,7 @@
 Holter/
 *.sig
 *.hea
-
+*.csv
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
